@@ -44,12 +44,12 @@ export default function Home() {
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
             <a class="nav-link pr-5" href="#">
-              <img src={search} className="landing-menu-svg ml-1" />
+              <img src={search} className="nav-menu-svg ml-1" />
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link pr-5" href="#">
-              <img src={cart} className="landing-menu-svg ml-1" />
+              <img src={cart} className="nav-menu-svg ml-1" />
             </a>
           </li>
         </ul>
