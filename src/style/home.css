@@ -1,0 +1,25 @@
+.container {
+  margin-top: 50px !important;
+}
+
+.row-home {
+  background: linear-gradient(to right, #e8e5e9 60%, #f6cdd3 40%);
+}
+
+.landing-text {
+  font-family: "Righteous", cursive;
+  padding: 7px 7px 0px 7px;
+}
+
+.homebtn-btn {
+  background-color: #f6cdd3;
+  padding: 1px 10px 5px 10px;
+  font-size: 20px;
+}
+
+.landing-menu-svg {
+  width: 15px;
+}
+
+.lady-img {
+}
