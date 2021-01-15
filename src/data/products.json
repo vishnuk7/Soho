@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1",
+        "name": "Darla Stanton",
+        "image": "./data/image--0.14.png",
+        "price":"700",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+      {
+        "id": "2",
+        "name": "Celia Harris",
+        "image": "./data/image--0.16.png",
+        "price":"450",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+     {
+        "id": "3",
+        "name": "Marion Tremblay IV",
+        "image": "./data/image--0.18.png",
+        "price":"1025",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+     {
+        "id": "4",
+        "name": "Jonathan Jaskolski",
+        "image": "./data/image--0.20.png",
+        "price":"1999",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+     {
+        "id": "4",
+        "name": "Jonathan Jaskolski",
+        "image": "./data/image--0.20.png",
+        "price":"1999",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+     {
+        "id": "5",
+        "name": "Sandra Bednar",
+        "image": "./data/image--0.22.png",
+        "price":"759",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+     {
+        "id": "6",
+        "name": "Doug Hammes",
+        "image": "./data/image--0.24.png",
+        "price":"859",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+     {
+        "id": "7",
+        "name": "Tom Goyette",
+        "image": "./data/image--0.26.png",
+        "price":"600",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    }, {
+        "id": "8",
+        "name": "Elbert Tremblay",
+        "image": "./data/image--0.30.png",
+        "price":"759",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+     {
+        "id": "9",
+        "name": "Ronald Swaniawski Sr.",
+        "image": "./data/image--0.32.png",
+        "price":"900",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+    {
+        "id": "10",
+        "name": "Miss Ray Boyle",
+        "image": "./data/image--0.34.png",
+        "price":"859",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+    {
+        "id": "11",
+        "name": "Cesar Keeling",
+        "image": "./data/image--0.36.png",
+        "price":"799",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    },
+    {
+        "id": "12",
+        "name": "Levi Hodkiewicz",
+        "image": "./data/image--0.38.png",
+        "price":"809",
+        "desc":"Et quas maiores. Est voluptate repellendus ea magni. Laborum qui et eos dolorem quo autem illum dolor earum. Totam tempore qui eum non dolorem. Dolores repudiandae ipsa nemo maiores rerum."
+    }
+
+]
