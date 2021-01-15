@@ -1,11 +1,18 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import Home from "./Home";
+import Home from "./pages/Home";
+import Products from "./pages/Products";
+import SingleProduct from "./pages/SingleProduct";
+import { Route, Switch } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      <Switch>
+        <Route path="/" component={Home} exact />
+        <Route path="/products" component={Products} exact />
+        <Route path="/singleProduct" component={SingleProduct} exact />
+      </Switch>
     </div>
   );
 }

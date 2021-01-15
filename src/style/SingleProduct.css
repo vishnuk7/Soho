@@ -1,0 +1,35 @@
+.product-title {
+  font-family: "Righteous", cursive;
+  padding: 7px 7px 7px 7px;
+}
+
+.product-desc {
+  font-size: 17px;
+  padding: 7px 7px 7px 7px;
+}
+
+.heart:hover {
+  background: url(".././images/heartRed.svg") no-repeat;
+}
+
+.bg-lightPink {
+  background-color: #fce4e7;
+}
+
+.sizeSelector p {
+  border: 1px solid#333333;
+  width: 35px;
+  display: inline-block;
+  margin: 1px 5px 1px 5px;
+  font-size: 15px;
+}
+
+.sizeSelector p:hover {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.addToCart {
+  font-size: 25px;
+  font-weight: 700;
+}

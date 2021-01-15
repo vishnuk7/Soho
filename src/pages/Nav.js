@@ -1,12 +1,13 @@
 import React from "react";
-import "./style/Nav.css";
-import cart from "./images/cart.svg";
-import search from "./images/search.svg";
+import ".././style/Nav.css";
+import cart from ".././images/cart.svg";
+import search from ".././images/search.svg";
+import { Link } from "react-router-dom";
 
 export default function Home() {
   return (
     <nav class="navbar navbar-expand-lg nav-c">
-      <a class="navbar-brand mx-5" href="#">
+      <Link class="navbar-brand mx-5" to="#">
         {/* <img
           src=""
           width="30"
@@ -15,7 +16,7 @@ export default function Home() {
           alt=""
         /> */}
         S.
-      </a>
+      </Link>
       <button
         class="navbar-toggler"
         type="button"

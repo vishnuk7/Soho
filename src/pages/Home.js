@@ -1,7 +1,7 @@
 import React from "react";
-import "./style/Home.css";
-import lady from "./images/lady.png";
-import menu from "./images/menu.svg";
+import ".././style/Home.css";
+import lady from ".././images/lady.png";
+import menu from ".././images/menu.svg";
 import Nav from "./Nav";
 
 export default function Home() {
