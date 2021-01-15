@@ -1,0 +1,18 @@
+.nav-c {
+  background: linear-gradient(to right, #e8e5e9 60%, #f6cdd3 40%);
+  padding-top: 10px;
+}
+
+.nav-link {
+  font-size: 20px;
+  color: black;
+}
+
+.nav-link:hover,
+.navbar-brand:hover {
+  color: black;
+}
+
+.navbar-brand {
+  color: black;
+}
